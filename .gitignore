@@ -1,0 +1,5 @@
+airflow.cfg
+airflow-webserver.pid
+unittests.cfg
+logs
+config.cfg
